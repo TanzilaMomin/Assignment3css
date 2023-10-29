@@ -1,0 +1,12 @@
+td{
+    height: 140px;
+    width: 140px;
+    background-color: cadetblue;
+}
+div{
+    border: 25px inset red;
+    width: 1000px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px rgb(230, 162, 162);
+}
